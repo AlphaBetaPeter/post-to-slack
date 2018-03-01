@@ -13,5 +13,5 @@ go install
 ### Usage
 
 ```
-post-to-slack -url=<Your webhook url></Your> -text=<Your message>
+post-to-slack -url="Your webhook url" -text="Your message"
 ```
